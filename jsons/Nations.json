@@ -31,7 +31,7 @@
 
 		"outerColor": [139,8,180],
 		"innerColor": [240,140,143],
-		"uniques": ["[+20 Gold] from each Trade Route", "[+400]% [Oil] resource production", "[+2] Sight <for [{Military} {Land}] units>", "[-100]% unhappiness from the number of cities", "Receive [+400]% Gold from Barbarian encampments and pillaging Cities", "[+100]% Strength <vs [City-States]>", "Earn [100]% of killed [Military] unit's [Strength] as [Culture]"], 
+		"uniques": ["[+20 Gold] from each Trade Route", "[+200]% [Oil] resource production", "[+2] Sight <for [{Military} {Land}] units>", "[-100]% unhappiness from the number of cities", "Receive [+400]% Gold from Barbarian encampments and pillaging Cities", "[+100]% Strength <vs [City-States]>", "Earn [100]% of killed [Military] unit's [Strength] as [Culture]"], 
 		"cities": ["Castillo de Masyaf"," Isfahán","Tabriz","Yazd","hahr-e-Rey","Nishapur","Bam","Shiraz","Sultaniya",
 			"Qazvín","Kashán","Hamadán","Tus","Mashhad","Susa","Hamún","Ardabil","Naín"]
 	}
