@@ -12,7 +12,7 @@
 	},
 	{
 		"name": "Hashashin Arquero",
-		"replaces": "Archery",
+		"replaces": "Archer",
 		"uniqueTo": "Hashashin",
 		"unitType": "Archery",
 		"movement": 2,
