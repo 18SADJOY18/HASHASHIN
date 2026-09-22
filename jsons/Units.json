@@ -9,5 +9,5 @@
 		"cost": 40,
 		"uniques" : ["Heals [10] damage if it kills a unit","Withdraws before melee combat <with [60]% chance>"],
 		"attackSound": "nonmetalhit",
-	}
+	},
 ]
