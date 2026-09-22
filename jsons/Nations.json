@@ -29,7 +29,7 @@
 		"denounced": "بیایید علایق‌مان را با هم به اشتراک بگذاریم",
 		"declaringfriendship": "بیایید از کمرهایمان مراقبت کنیم",
 
-		"outerColor": [180,6,235],
+		"outerColor": [180,106,235],
 		"innerColor": [235,102,106],
 		"unique": ["[+20 Gold] from each Trade Route", "[+400]% [Oil] resource production", "[+2] Sight <for [{Military} {Land}] units>", "[-100]% unhappiness from the number of cities", "Receive [+400]% Gold from Barbarian encampments and pillaging Cities", "[+100]% Strength <vs [City-States]>", "Earn [100]% of killed [Military] unit's [Strength] as [Culture]",], 
 		"cities": ["Castillo de Masyaf"," Isfahán","Tabriz","Yazd","hahr-e-Rey","Nishapur","Bam","Shiraz","Sultaniya",
