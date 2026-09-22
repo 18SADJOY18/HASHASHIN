@@ -2,7 +2,7 @@
 	{
 		"name": "Hashashin",
 		"replaces": "Warrior",
-		"uniqueTo": "HASHASHIN",
+		"uniqueTo": "Hashashin",
 		"unitType": "Sword",
 		"movement": 2,
 		"strength": 12,
